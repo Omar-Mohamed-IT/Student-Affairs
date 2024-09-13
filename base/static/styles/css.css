@@ -1,0 +1,100 @@
+.header {
+    padding: 10px;
+    margin: 10;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+  #theForm{
+  text-align: left;
+  width:40%;
+  position: absolute;
+  margin-left: 30%;
+  margin-right: 30%;
+  }
+  #theForm p{
+    font-size: 20px;
+    margin: 10px 10px;
+  }
+  #theForm input{
+    font-size: 16px;
+    padding: 15px 10px;
+    height: 50px;
+    width: 100%;
+    outline: none;
+    border-radius: 10px;
+  }
+ #buttonF{
+   text-align: center;
+   padding: 4px 4px;
+   width: 30%;
+   height: 0%;
+   margin-top: 15px; 
+   margin-left: 10px;
+ }
+
+  table {
+    border: 1px solid  rgb(10, 39, 122)s;
+    width: 60%;
+    text-align: center; 
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 2%;
+    box-shadow:  0 0 6px 4px lightblue;
+    border-radius: 15px;
+    
+} 
+ th {
+   background-color: lightblue;
+   color: rgb(10, 39, 122);
+    border: 1px solid  rgb(10, 39, 122);
+    text-align: center; 
+}
+td {
+    border: 1px solid  rgb(10, 39, 122);
+    /* width: 20%; */
+    color: rgb(10, 39, 122);
+    text-align: center;  
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
+}
+.subb:hover{
+    position: fixed;
+  bottom: 100px;
+  right: 5%;
+  width: 200px;
+  background-color: rgb(19, 103, 200);
+  height: 40px;
+
+}
+.subb{
+  position: fixed;
+  bottom: 100px;
+  right: 5%;
+  width: 200px;
+  height: 40px;
+  background-color: #0a277a;
+
+
+}.wasubb{
+    position: fixed;
+  bottom: 200px;;
+  left: 40%;
+  
+  width: 20%;
+  height: 5%;
+  border: 3px solid #18a0aa;
+background-color: #7da7f0;
+
+
+}
+.wasubb2{
+    position: fixed;
+  bottom: 100px;;
+  left: 40%;
+  width: 20%;
+  height: 5%;
+  border: 3px solid #18a0aa;
+background-color: #7da7f0;
+}
